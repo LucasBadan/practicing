@@ -1,5 +1,10 @@
 function App() {
-  return <h1>Meu projeto - PR de teste</h1>;
+  return (
+    <main>
+      <h1>Meu projeto</h1>
+      <p>Ambiente de STAGING — versão de teste</p>
+    </main>
+  );
 }
 
 export default App;
